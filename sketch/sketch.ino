@@ -11,13 +11,13 @@
 const char* ssid = "Wokwi-GUEST";
 const char* password = "";
 // koneksi thingspeak
-const char* myApiKey = "9DN5RFPRUNLMOVLA";
-const int myChannelNumber = 2358270;
+const char* myApiKey = "api key";
+const int myChannelNumber = channelnumber;
 
 
 // Telegram BOT
-#define BOTtoken "6920662651:AAFxT508ZqHIvIcoZkPaD6gd0FrL-YGOGNw"
-// #define CHAT_ID "1392331206" 
+#define BOTtoken "BOTtoken"
+// #define CHAT_ID "" 
 
 
 #define DHT_PIN 12 
