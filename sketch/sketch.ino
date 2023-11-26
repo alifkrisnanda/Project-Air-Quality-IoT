@@ -17,7 +17,6 @@ const int myChannelNumber = channelnumber;
 
 // Telegram BOT
 #define BOTtoken "BOTtoken"
-// #define CHAT_ID "" 
 
 
 #define DHT_PIN 12 
