@@ -1,4 +1,5 @@
 # Project-Kualitas-Udara-IoT
 
-Simulasi ESP32 dan sensor DHT22 menggunakan wokwi link project: https://wokwi.com/projects/382474103106134017 
-Mengkoneksikan thingspeak untuk olah data dan telegram untuk menampilkan output sensor 
+**Simulation of ESP32 and DHT22 sensors using wokwi **
+link project: https://wokwi.com/projects/382474103106134017 
+Connecting thingspeak for data processing and telegram to display sensor output
